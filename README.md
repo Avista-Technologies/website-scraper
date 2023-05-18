@@ -34,7 +34,7 @@ python web_scraping_tool.py
 
 Enter the website URL when prompted.
 
-The tool will scrape the webpage and display the extracted information according to the code in the scrape_website function. Modify this function to scrape specific data based on your requirements.
+The tool will scrape the webpage and save the extracted information according to the code in the scrape_website function. Modify this function to scrape specific data based on your requirements.
 
 ## Important Notes
 Web scraping should be done responsibly and in compliance with the website's terms of service.
