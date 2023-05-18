@@ -21,7 +21,12 @@ git clone https://github.com/Avista-Technologies/website-scraper.git
 ```bash
 cd website-scraper
 ```
-3. Run the following command to start the web scraping tool:
+3. Install the required libraries
+```bash
+pip install -r requirements.txt
+```
+
+5. Run the following command to start the web scraping tool:
 
 ```shell
 python web_scraping_tool.py
